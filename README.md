@@ -3,8 +3,11 @@
 ## Manifest.json
 
 [01 Start](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/app-manifest-01--start)
+
 [02 Adding Properties](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/app-manifest-02--added-properties)
+
 [03 Final manifest.json](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/app-manifest-02--added-properties)
+
 
 ### Web app manifest 
 
@@ -131,4 +134,15 @@ Click 'Applications'
 
 
 ## Service Workers
+
+Srrvices workers run on their own thread. 
+
+A service worker is a background process and will continue to run even if you close the app
+
+
+### Service Workers Listenable Events
+
+* Fetch 
+* Push Notifications
+* Notification Interactions
 
