@@ -92,7 +92,6 @@ These colors are set for the app icon, splash screen etc.
 
 When ever the browser needs a description, it will use this. the user WILL see it. 
 
-
 ### Dir and Lang
 
 The direction and language of your app. 
@@ -104,3 +103,10 @@ which orientation is prefered
 ### Icons 
 
 The icons for your app. 
+
+### Related Applications
+
+You can specify native apps. 
+
+
+

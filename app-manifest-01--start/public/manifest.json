@@ -2,5 +2,5 @@
     "name": "This is the app name",
     "short_name": "Appingtons",
     "start_url": "index.html",
-    
+    "scope": "
 }
