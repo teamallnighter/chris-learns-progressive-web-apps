@@ -1,11 +1,17 @@
 # Chris Learns PWA's 
 
-## Web app manifest 
+## Manifest.json
+
+[01 Start](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/app-manifest-01--start)
+[02 Adding Properties](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/app-manifest-02--added-properties)
+[03 Final manifest.json](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/app-manifest-02--added-properties)
+
+### Web app manifest 
 
 * Makes the website installable 
 * looks and feels like a native app
 
-## Installing Manifest
+### Installing Manifest
 
 Create a manifest.json file 
 add this to your head
@@ -67,58 +73,62 @@ add this to your head
 }
 ```
 
-### Name
+#### Name
 
 This is the long name of the app. 
 
 
-### Short Name
+#### Short Name
 
 the short name is what will show below the app icon
 
-### Start Url 
+#### Start Url 
 
 Where the app starts on the website
 
-### Scope
+#### Scope
 
 What pages should be included in the app. "." would be all 
 
-### Background and Theme Colors 
+#### Background and Theme Colors 
 
 These colors are set for the app icon, splash screen etc.
 
-### Description 
+#### Description 
 
 When ever the browser needs a description, it will use this. the user WILL see it. 
 
-### Dir and Lang
+#### Dir and Lang
 
 The direction and language of your app. 
 
-### Orientation
+#### Orientation
 
 which orientation is prefered 
 
-### Icons 
+#### Icons 
 
 The icons for your app. 
 
-### Related Applications
+#### Related Applications
 
 You can specify native apps. 
 
 
-## Using Chrome to check your PWA
+### Using Chrome to check your PWA
 
 go to developers tools 
 
 Click 'Applications' 
 
-### Emulating devices
+#### Emulating devices
 
 [Android Studio](https://developer.android.com/studio)
 
 [Apple Emulator](https://developer.apple.com/documentation/xcode/running_your_app_in_the_simulator_or_on_a_device)
 
+
+
+
+## Service Workers
 
