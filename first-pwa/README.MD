@@ -1,4 +1,4 @@
-# Chris Learns PWA's 
+# PWA's 
 
 ## Web app manifest 
 
