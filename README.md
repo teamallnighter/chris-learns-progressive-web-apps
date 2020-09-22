@@ -109,4 +109,16 @@ The icons for your app.
 You can specify native apps. 
 
 
+## Using Chrome to check your PWA
+
+go to developers tools 
+
+Click 'Applications' 
+
+### Emulating devices
+
+[Android Studio](https://developer.android.com/studio)
+
+[Apple Emulator](https://developer.apple.com/documentation/xcode/running_your_app_in_the_simulator_or_on_a_device)
+
 
