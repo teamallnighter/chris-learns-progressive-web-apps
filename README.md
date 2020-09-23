@@ -1,6 +1,8 @@
 # Chris Learns PWA's
 
-## [Manifext.json](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/App%20Manifest)
+Took a [course](https://www.udemy.com/course/progressive-web-app-pwa-the-complete-guide) on progreesive web apps. These are the notes and examples. 
+
+## [Manifest.json](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/App%20Manifest)
 
 ## [Service Workers](https://github.com/teamallnighter/chris-learns-progressive-web-apps/tree/main/Service%20Workers)
 
